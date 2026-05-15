@@ -1,6 +1,8 @@
 <!-- PercentageOnly -->
+<div align="center">
 <a href="#" target="_blank">
-  <img src="svg/percentageonly.svg" width="1200" alt="percentageonly-official" />
+  <img src="https://github.com/halfrost/halfrost/blob/master/icons/header_1.png" width="100%" align="right" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=A7A459&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Hello+everyone;I'm+PercentageOnly%2C+and+I'm+a+BA+student+at+EIU+%E2%9C%A9" width="70%" />
 </a>
 
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
@@ -10,54 +12,59 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" alt="TypeScript logo" title="TypeScript" height="25" /></span>
 &nbsp;
+<span><img src="https://img.shields.io/badge/Python-282C34?logo=python&logoColor=3776AB" alt="Python logo" title="Python" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Pandas-282C34?logo=pandas&logoColor=150458" alt="Pandas logo" title="Pandas" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/NumPy-282C34?logo=numpy&logoColor=013243" alt="NumPy logo" title="NumPy" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Jupyter-282C34?logo=jupyter&logoColor=F37726" alt="Jupyter logo" title="Jupyter" height="25" /></span>
+&nbsp;
 <span><img src="https://img.shields.io/badge/ReactJS-282C34?logo=react&logoColor=61DAFB" alt="ReactJS logo" title="ReactJS" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Redux-282C34?logo=redux&logoColor=764ABC" alt="Redux logo" title="Redux" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Vue.js-282C34?logo=vue.js&logoColor=4FC08D" alt="Vue.js logo" title="Vue.js" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Nuxt.js-282C34?logo=nuxt.js&logoColor=4FC08D" alt="Nuxt.js logo" title="Nuxt.js" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=00F200" alt="Node.js logo" title="Node.js" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Express-282C34?logo=express&logoColor=FFFFFF" alt="Express.js logo" title="Express.js" height="25" /></span>
-&nbsp;
 <span><img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248" alt="MongoDB logo" title="MongoDB" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Tailwind%20CSS-282C34?logo=tailwind-css&logoColor=38B2AC" alt="TailwindCSS logo" title="TailwindCSS" height="25" /></span>
+<span><img src="https://img.shields.io/badge/SQL-282C34?logo=mysql&logoColor=00758F" alt="SQL logo" title="SQL" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Three.js-282C34?logo=three.js&logoColor=FFFFFF" alt="Three.js logo" title="Three.js" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Tableau-282C34?logo=tableau&logoColor=E97627" alt="Tableau logo" title="Tableau" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Power%20BI-282C34?logo=powerbi&logoColor=F2CC8F" alt="Power BI logo" title="Power BI" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Excel-282C34?logo=microsoft-excel&logoColor=217346" alt="Excel logo" title="Excel" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Sass-282C34?logo=sass&logoColor=CC6699" alt="SASS logo" title="SASS" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Bootstrap-282C34?logo=bootstrap&logoColor=7952B3" alt="Bootstrap logo" title="Bootstrap" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/ESLint-282C34?logo=eslint&logoColor=4B32C3" alt="ESLint logo" title="ESLint" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Git-282C34?logo=git&logoColor=F05032" alt="Git logo" title="Git" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Firebase-282C34?logo=firebase&logoColor=FFCA28" alt="Firebase logo" title="Firebase" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/WordPress-282C34?logo=wordPress&logoColor=21759B" alt="WordPress logo" title="WordPress" height="25" /></span>
-&nbsp;
 
 <br>
-<h2 align="center">🔥 GitHub Stats 🔥</h2>
+<h2 align="center">🔥 GitHub 🔥</h2>
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <br>
 <div align=center>
   <a href="#" title="PercentageOnly">
-    <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=percentageonly&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+    <img width="315" align="center" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="100" />
   </a>
-  <a href="#" title="PercentageOnly">
-    <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=percentageonly&show_icons=true&theme=react&border_color=61dafb&hide_border=true&rank_icon=github&include_all_commits=true" />
-  </a>
+</div>
+
+<br>
+<h2 align="center">📚 Featured Projects 📚</h2>
+<br>
+<div align="center">
+  <h3>📊 MIS 311 - Business Analytics</h3>
+  <p><strong>Student Exam Performance Analysis</strong> - Data-driven insights on educational performance and success factors</p>
+  <br>
+  <h3>💼 MIS 301 - Core Business Analytics</h3>
+  <p><strong>Business Data Analysis</strong> - Exploratory and predictive analytics for business decision-making</p>
+  <br>
+  <h3>🚀 MIS 315 - Advanced Analytics</h3>
+  <p><strong>Advanced Business Analytics</strong> - Complex analytical models and strategic insights</p>
 </div>
 
 <br>
@@ -65,14 +72,8 @@
 <br>
 <!-- https://icons8.com -->
 <div align="center">
-  <a href="https://percentageonly.com" target="blank">
-    <img width="90" height="90" src="images/logo-percentageonly-transparent-bg-192x192.png" alt="percentageonly-blog" />
-  </a>
-  <a href="https://facebook.com/percentageonly" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="percentageonly-facebook" />
-  </a>
-  <a href="https://youtube.com/@percentageonly" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png" alt="percentageonly-youtube" />
+  <a href="https://github.com/PercentageOnly" target="blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/github.png" alt="percentageonly-github" />
   </a>
   <a href="https://www.linkedin.com/in/percentageonly" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="percentageonly-linkedin" />
@@ -86,32 +87,49 @@
 </div>
 
 <br>
-
-<h2 align="center">📖 My main course: [FULL STACK] MERN ADVANCED 📖</h2>
+<h2 align="center">💡 About Me 💡</h2>
 <br>
-<p>
-  <a href="https://youtu.be/9M1ZeMip40k?si=AorUOYNnPL5Evr26" target="_blank">
-    <strong>☕ [FULL STACK] MERN ADVANCED • Lớp học lập trình nâng cao thực tế để đi làm ✍ | ReactJS, NodeJS, ExpressJS, MongoDB | PercentageOnly</strong>
-  </a>
+<p align="center">
+  <strong>Passionate about data-driven insights and strategic decision-making. Enthusiast of tactical games requiring skill development.</strong>
 </p>
-<p><strong>☕ Đây là một khóa học mà mình đã làm cực kỳ tâm huyết, với phong cách dạy lập trình làm dự án thực tế, chuyên nghiệp. Để các bạn có một hành trang kiến thức vững chắc cho hành trình sự nghiệp làm lập trình viên trong tương lai nhé.</strong></p>
-<p><strong>☕ Vì mỗi lần mở lớp online dạy trực tiếp này mình chỉ nhận số lượng rất ít bạn để đảm bảo chất lượng học, nên là các bạn quan tâm thì cứ thoải mái liên hệ với mình sớm để đăng ký giữ chỗ cho những lớp tiếp theo nha!</strong></p>
-<p>
-  <strong>🔗 Video giới thiệu chi tiết: <a href="https://youtu.be/9M1ZeMip40k?si=AorUOYNnPL5Evr26" target="_blank">Demo & Review toàn bộ khóa Full Stack MERN Advanced | Học lập trình thực tế để đi làm | PercentageOnly</a></strong>
-  <br><br>
-  <strong>🔗 Bài viết chi tiết trên blog: <a href="https://percentageonly.com/khoa-hoc-lap-trinh-full-stack-mern-100-du-an-thuc-te-chat-luong/" target="_blank">Tự tin làm chủ kỹ năng lập trình Website với combo kiến thức MERN Stack Nâng Cao đầy đủ từ Front-end cho đến Back-end: ReactJS, NodeJS, ExpressJS, MongoDB...vv</a></strong>
-  <br><br>
-  <strong>🔗 Liên hệ với mình tại Facebook: <a href="https://www.facebook.com/percentageonly" target="_blank">https://www.facebook.com/percentageonly</a></strong>
+<p align="center">
+  I'm a Business Analytics student with a strong passion for numbers and data visualization. I love solving complex problems through strategic thinking and analytical skills. My journey combines technical expertise with business acumen to uncover actionable insights from data.
+</p>
+
+<br>
+<h2 align="center">📖 My Learning Journey 📖</h2>
+<br>
+<p align="center">
+  🎯 <strong>Current Focus:</strong> Business Analytics, Data Analysis, and Predictive Modeling
   <br>
-  <strong>📧 Hoặc Email: <a href="mailto:percentageonly.official@gmail.com" target="_top">percentageonly.official@gmail.com</a></strong>
+  📚 <strong>Skills:</strong> Python, SQL, Tableau, Power BI, Excel, Data Visualization
+  <br>
+  🔧 <strong>Tools:</strong> Jupyter Notebooks, Git, Data Science Stack
+  <br>
+  💪 <strong>Strengths:</strong> Problem-solving, Strategic thinking, Attention to detail
 </p>
-<a href="https://youtube.com/@percentageonly" target="_blank">
-  <img src="images/ytb-lo-trinh-hoc-lap-trinh-web-va-gioi-thieu-kenh-percentageonly-mot-lap-trinh-vien.png" width="1200" alt="percentageonly-mot-lap-trinh-vien" />
-</a>
 
 <br>
-<h2 align="center">📑 My Favorites Quote 📑</h2>
+<h2 align="center">🎮 Beyond Analytics 🎮</h2>
 <br>
-<a href="#" target="_blank">
-  <img src="svg/percentageonly-quotes.svg" width="846" height="150" alt="percentageonly-mot-lap-trinh-vien-mern-stack-advanced" />
-</a>
+    🎮 Music • Games • Anime • Code • Art
+<p align="center">
+  When I'm not analyzing data, I'm passionate about tactical games that require strategic thinking and skill development. These hobbies sharpen my analytical mindset and help me approach problems from unique angles.
+</p>
+
+<br>
+<h2 align="center">📑 Key Interests 📑</h2>
+<br>
+<p align="center">
+  ✨ Data Analysis & Visualization<br>
+  ✨ Business Intelligence<br>
+  ✨ Predictive Modeling<br>
+  ✨ Strategic Decision-Making<br>
+  ✨ Educational Analytics
+</p>
+
+<br>
+<hr>
+<p align="center">
+  <strong>Always learning. Always growing. Always analyzing. 📊</strong>
+</p>
