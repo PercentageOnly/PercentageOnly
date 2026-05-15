@@ -110,14 +110,6 @@
 </p>
 
 <br>
-<h2 align="center">🎮 Beyond Analytics 🎮</h2>
-<br>
-    🎮 Music • Games • Anime • Code • Art
-<p align="center">
-  When I'm not analyzing data, I'm passionate about tactical games that require strategic thinking and skill development. These hobbies sharpen my analytical mindset and help me approach problems from unique angles.
-</p>
-
-<br>
 <h2 align="center">📑 Key Interests 📑</h2>
 <br>
 <p align="center">
