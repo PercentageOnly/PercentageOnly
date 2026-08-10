@@ -69,7 +69,7 @@
   <a href="https://www.instagram.com/p.t_nhat/" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="percentageonly-instagram" />
   </a>
-  <a href="mail to:nhat.phan.bbs20@eiu.edu.vn" target="top">
+  <a href="https://mail.google.com/mail/u/0/#inbox" target="top">
     <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="percentageonly-email" />
   </a>
 </div>
