@@ -10,8 +10,6 @@
 <!-- https://simpleicons.org/ -->
 <span><img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" alt="TypeScript logo" title="TypeScript" height="25" /></span>
-&nbsp;
 <span><img src="https://img.shields.io/badge/Python-282C34?logo=python&logoColor=3776AB" alt="Python logo" title="Python" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Pandas-282C34?logo=pandas&logoColor=150458" alt="Pandas logo" title="Pandas" height="25" /></span>
@@ -20,25 +18,15 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Jupyter-282C34?logo=jupyter&logoColor=F37726" alt="Jupyter logo" title="Jupyter" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/ReactJS-282C34?logo=react&logoColor=61DAFB" alt="ReactJS logo" title="ReactJS" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=00F200" alt="Node.js logo" title="Node.js" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248" alt="MongoDB logo" title="MongoDB" height="25" /></span>
+<span><img src="https://img.shields.io/badge/pgAdmin4-282C34?logo=pgAdmin4&logoColor=47A248" alt="pgAdmin4 logo" title="pgAdmin4" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/SQL-282C34?logo=mysql&logoColor=00758F" alt="SQL logo" title="SQL" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Tableau-282C34?logo=tableau&logoColor=E97627" alt="Tableau logo" title="Tableau" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Power%20BI-282C34?logo=powerbi&logoColor=F2CC8F" alt="Power BI logo" title="Power BI" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Excel-282C34?logo=microsoft-excel&logoColor=217346" alt="Excel logo" title="Excel" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Git-282C34?logo=git&logoColor=F05032" alt="Git logo" title="Git" height="25" /></span>
+<span><img src="https://img.shields.io/badge/anaconda-282C34?logo=anaconda&logoColor=1572B6" alt="anaconda logo" title="Anaconda" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" /></span>
 &nbsp;
@@ -100,11 +88,11 @@
 <h2 align="center">📖 My Learning Journey 📖</h2>
 <br>
 <p align="center">
-  🎯 <strong>Current Focus:</strong> Business Analytics, Data Analysis, and Predictive Modeling
+  🎯 <strong>Current Focus:</strong> Business Analytics, and Data Analysis
   <br>
-  📚 <strong>Skills:</strong> Python, SQL, Tableau, Power BI, Excel, Data Visualization
+  📚 <strong>Skills:</strong> Python, SQL, Power BI, Excel, Data Visualization
   <br>
-  🔧 <strong>Tools:</strong> Jupyter Notebooks, Git, Data Science Stack
+  🔧 <strong>Tools:</strong> Jupyter Notebooks, Google colab, Data Science Stack
   <br>
   💪 <strong>Strengths:</strong> Problem-solving, Strategic thinking, Attention to detail
 </p>
