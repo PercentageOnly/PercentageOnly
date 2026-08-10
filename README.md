@@ -75,13 +75,13 @@
   <a href="https://github.com/PercentageOnly" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/github.png" alt="percentageonly-github" />
   </a>
-  <a href="https://www.linkedin.com/in/percentageonly" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="percentageonly-linkedin" />
+  <a href="https://www.facebook.com/phan.tuan.nhat.173377/" target="blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/facebook.png" alt="percentageonly-facebook" />
   </a>
-  <a href="https://instagram.com/percentageonly" target="blank">
+  <a href="https://www.instagram.com/p.t_nhat/" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="percentageonly-instagram" />
   </a>
-  <a href="mailto:percentageonly.official@gmail.com" target="top">
+  <a href="mailto:nhat.phan.bbs20@eiu.edu.vn" target="top">
     <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="percentageonly-email" />
   </a>
 </div>
